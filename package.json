@@ -1,13 +1,13 @@
 {
   "name": "vscode-llms-txt",
   "displayName": "LLMS.txt Explorer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Browse, search, and view LLMS.txt files from various websites",
   "type": "commonjs",
-  "homepage": "https://github.com/thedaviddias/vscode-llms-txt/blob/main/README.md",
+  "homepage": "https://github.com/jaylane/vscode-llms-txt",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thedaviddias/vscode-llms-txt.git"
+    "url": "https://github.com/jaylane/vscode-llms-txt.git"
   },
   "categories": [
     "AI",
@@ -16,9 +16,9 @@
     "Other"
   ],
   "sponsor": {
-    "url": "https://github.com/sponsors/TheDavidDias"
+    "url": "https://jason-lane.dev"
   },
-  "publisher": "TheDavidDias",
+  "publisher": "jaylane",
   "icon": "images/icon.png",
   "main": "./dist/extension.js",
   "scripts": {
