@@ -1,14 +1,4 @@
-# LLMS.txt Explorer for VS Code
-
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=TheDavidDias.vscode-llms-txt" title="Check it out on the Visual Studio Marketplace">
-    <img src="https://vscode-marketplace-badge.vercel.app/api/badge/version/TheDavidDias.vscode-llms-txt" alt="Visual Studio Marketplace" style="display: inline-block" />
-  </a>
-
-  <img src="https://vscode-marketplace-badge.vercel.app/api/badge/installs/TheDavidDias.vscode-llms-txt" alt="Number of installs"  style="display: inline-block;margin-left:10px" />
-
-  <img src="https://vscode-marketplace-badge.vercel.app/api/badge/rating/TheDavidDias.vscode-llms-txt" alt="Ratings" style="display: inline-block;margin-left:10px" />
-</p>
+# LLMS.txt Explorer for OpenVSX Registry
 
 A VS Code extension that simplifies browsing, searching, and managing LLMS.txt files from various websites. Access and view LLMS.txt content directly within your editor, making it easier to understand how different websites interact with AI language models.
 
